@@ -2,8 +2,8 @@
 #include <WiFiClientSecure.h>
 #include <HTTPClient.h>
 
-const char* ssid     = "1Homechennai";
-const char* password = "2008arjav";
+const char* ssid     = "";
+const char* password = "";
 
 String API_URL   = "";
 String API_KEY   = "";
