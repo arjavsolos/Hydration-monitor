@@ -5,8 +5,8 @@
 const char* ssid     = "1Homechennai";
 const char* password = "2008arjav";
 
-String API_URL   = "https://jjhuiktpmtucxeevjigz.supabase.co";
-String API_KEY   = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpqaHVpa3RwbXR1Y3hlZXZqaWd6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDAxMDU4MjAsImV4cCI6MjA1NTY4MTgyMH0.XGAwum5-rqeLjsOgRTY3QydJJ14p88-78DpUcKU94R4";
+String API_URL   = "";
+String API_KEY   = "";
 String TableName = "Sigma%20GSR";
 
 #define GSR_PIN   36
